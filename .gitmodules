@@ -1,3 +1,6 @@
 [submodule "open_manipulator_6dof_simulations"]
 	path = open_manipulator_6dof_simulations
 	url = https://github.com/KlausLex/open_manipulator_6dof_simulations.git
+[submodule "open_manipulator_friends"]
+	path = open_manipulator_friends
+	url = https://github.com/KlausLex/open_manipulator_friends.git
