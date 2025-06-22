@@ -48,3 +48,6 @@
 	path = DynamixelSDK
 	url = https://github.com/ROBOTIS-GIT/DynamixelSDK.git
 	branch = noetic-devel
+[submodule "open_manipulator_6dof_controls"]
+	path = open_manipulator_6dof_controls
+	url = https://github.com/KlausLex/open_manipulator_6dof_controls.git
