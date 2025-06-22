@@ -16,7 +16,7 @@
 	branch = noetic
 [submodule "open_manipulator_6dof_application"]
 	path = open_manipulator_6dof_application
-	url = https://github.com/zang09/open_manipulator_6dof_application.git
+	url = https://github.com/KlausLex/open_manipulator_6dof_application.git
 [submodule "open_manipulator_msgs"]
 	path = open_manipulator_msgs
 	url = https://github.com/ROBOTIS-GIT/open_manipulator_msgs.git
