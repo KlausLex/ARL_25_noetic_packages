@@ -21,3 +21,7 @@
 	path = open_manipulator_msgs
 	url = https://github.com/ROBOTIS-GIT/open_manipulator_msgs.git
 	branch = noetic
+[submodule "open_manipulator_simulations"]
+	path = open_manipulator_simulations
+	url = https://github.com/ROBOTIS-GIT/open_manipulator_simulations.git
+	branch = noetic
