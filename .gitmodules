@@ -51,3 +51,6 @@
 [submodule "open_manipulator_6dof_controls"]
 	path = open_manipulator_6dof_controls
 	url = https://github.com/KlausLex/open_manipulator_6dof_controls.git
+[submodule "advanced_robotics_control"]
+	path = advanced_robotics_control
+	url = https://github.com/KlausLex/advanced_robotics_control.git
