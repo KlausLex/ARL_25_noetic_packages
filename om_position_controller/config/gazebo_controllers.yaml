@@ -2,14 +2,14 @@
 open_manipulator_6dof:
   gazebo_ros_control:
     pid_gains:
-      joint1: {p: 10000.0, i: 0.0, d: 1000.0}
-      joint2: {p: 10000.0, i: 0.0, d: 1000.0}
-      joint3: {p: 10000.0, i: 0.0, d: 1000.0}
-      joint4: {p: 10000.0, i: 0.0, d: 1000.0}
-      joint5: {p: 10000.0, i: 0.0, d: 1000.0}
-      joint6: {p: 10000.0, i: 0.0, d: 1000.0}
-      gripper: {p: 1000.0, i: 0.0, d: 1.0}
-      gripper_sub: {p: 1000.0, i: 0.0, d: 1.0}
+      joint1: {p: 800.0, i: 0.0, d: 50.0}
+      joint2: {p: 800.0, i: 0.0, d: 50.0}
+      joint3: {p: 800.0, i: 0.0, d: 50.0}
+      joint4: {p: 800.0, i: 0.0, d: 50.0}
+      joint5: {p: 800.0, i: 0.0, d: 50.0}
+      joint6: {p: 800.0, i: 0.0, d: 50.0}
+      gripper: {p: 1000.0, i: 0.0, d: 10.0}
+      gripper_sub: {p: 1000.0, i: 0.0, d: 10.0}
 
   # Standard trajectory controllers (not your custom ones)
   arm_controller:
