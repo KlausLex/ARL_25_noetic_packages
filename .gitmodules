@@ -7,3 +7,6 @@
 [submodule "gazebo_ros_link_attacher"]
 	path = gazebo_ros_link_attacher
 	url = https://github.com/pal-robotics/gazebo_ros_link_attacher.git
+[submodule "open_manipulator_dependencies"]
+	path = open_manipulator_dependencies
+	url = https://github.com/ROBOTIS-GIT/open_manipulator_dependencies.git
