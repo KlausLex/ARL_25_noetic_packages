@@ -4,3 +4,6 @@
 [submodule "open_manipulator_friends"]
 	path = open_manipulator_friends
 	url = https://github.com/KlausLex/open_manipulator_friends.git
+[submodule "gazebo_ros_link_attacher"]
+	path = gazebo_ros_link_attacher
+	url = https://github.com/pal-robotics/gazebo_ros_link_attacher.git
