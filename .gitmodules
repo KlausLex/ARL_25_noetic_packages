@@ -36,3 +36,7 @@
 [submodule "moveit_calibration"]
 	path = moveit_calibration
 	url = https://github.com/moveit/moveit_calibration.git
+[submodule "dynamixel-workbench"]
+	path = dynamixel-workbench
+	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench.git
+	branch = noetic
