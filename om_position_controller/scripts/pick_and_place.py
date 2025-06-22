@@ -516,7 +516,7 @@ if __name__ == "__main__":
             bag_path=pick_bag_path,
             dmp_save_path=pick_dmp_path,
             cube_name="blue_cube",
-            position_offset=[0.0, 0.0, 0.01],  # Slight offset above cube
+            position_offset=[0.0, 0.0, 0.006],  # Slight offset above cube
             publisher=publisher,
             motion_name="pick",
             execute_time_factor=5,
