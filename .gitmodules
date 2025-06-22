@@ -33,3 +33,6 @@
 	path = ar_track_alvar
 	url = https://github.com/ros-perception/ar_track_alvar.git
 	branch = noetic-devel
+[submodule "moveit_calibration"]
+	path = moveit_calibration
+	url = https://github.com/moveit/moveit_calibration.git
