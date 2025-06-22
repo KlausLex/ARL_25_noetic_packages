@@ -14,3 +14,6 @@
 	path = open_manipulator
 	url = https://github.com/KlausLex/open_manipulator.git
 	branch = noetic
+[submodule "open_manipulator_6dof_application"]
+	path = open_manipulator_6dof_application
+	url = https://github.com/zang09/open_manipulator_6dof_application.git
