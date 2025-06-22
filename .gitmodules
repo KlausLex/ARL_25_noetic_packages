@@ -29,3 +29,7 @@
 	path = robotis_manipulator
 	url = https://github.com/ROBOTIS-GIT/robotis_manipulator.git
 	branch = noetic
+[submodule "ar_track_alvar"]
+	path = ar_track_alvar
+	url = https://github.com/ros-perception/ar_track_alvar.git
+	branch = noetic-devel
