@@ -9,7 +9,7 @@
 	url = https://github.com/pal-robotics/gazebo_ros_link_attacher.git
 [submodule "open_manipulator_dependencies"]
 	path = open_manipulator_dependencies
-	url = https://github.com/ROBOTIS-GIT/open_manipulator_dependencies.git
+	url = https://github.com/KlausLex/open_manipulator_dependencies.git
 [submodule "open_manipulator"]
 	path = open_manipulator
 	url = https://github.com/KlausLex/open_manipulator.git
@@ -19,7 +19,7 @@
 	url = https://github.com/KlausLex/open_manipulator_6dof_application.git
 [submodule "open_manipulator_msgs"]
 	path = open_manipulator_msgs
-	url = https://github.com/ROBOTIS-GIT/open_manipulator_msgs.git
+	url = https://github.com/KlausLex/open_manipulator_msgs.git
 	branch = noetic
 [submodule "open_manipulator_simulations"]
 	path = open_manipulator_simulations
@@ -27,7 +27,7 @@
 	branch = noetic
 [submodule "robotis_manipulator"]
 	path = robotis_manipulator
-	url = https://github.com/ROBOTIS-GIT/robotis_manipulator.git
+	url = https://github.com/KlausLex/robotis_manipulator.git
 	branch = noetic
 [submodule "ar_track_alvar"]
 	path = ar_track_alvar
@@ -35,7 +35,7 @@
 	branch = noetic-devel
 [submodule "moveit_calibration"]
 	path = moveit_calibration
-	url = https://github.com/moveit/moveit_calibration.git
+	url = https://github.com/KlausLex/moveit_calibration.git
 [submodule "dynamixel-workbench"]
 	path = dynamixel-workbench
 	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench.git
